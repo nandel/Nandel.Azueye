@@ -1,0 +1,15 @@
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\bin\Debug\net7.0\Handlers.Discord.deps.json
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\bin\Debug\net7.0\Handlers.Discord.dll
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\bin\Debug\net7.0\Handlers.Discord.pdb
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\bin\Debug\net7.0\Core.dll
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\bin\Debug\net7.0\Core.pdb
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.csproj.AssemblyReference.cache
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.AssemblyInfoInputs.cache
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.AssemblyInfo.cs
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.csproj.CoreCompileInputs.cache
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.csproj.CopyComplete
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.dll
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\refint\Handlers.Discord.dll
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\Handlers.Discord.pdb
+C:\Users\fefso\RiderProjects\Nandel.Azueye\Handlers.Discord\obj\Debug\net7.0\ref\Handlers.Discord.dll
