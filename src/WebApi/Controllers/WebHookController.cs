@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-using Core.Events;
+﻿using Core.Events;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;

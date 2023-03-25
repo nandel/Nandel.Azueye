@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "src\WebApi\WebApi.csproj", "{B1110004-F522-4916-9BA9-3BA3AAF84A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F54557AF-837B-4910-AD5A-F38CEFB80F12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Core\Core.csproj", "{ADB2DE0B-DF3D-42DF-89B9-0962D9A24470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers.Discord", "Handlers.Discord\Handlers.Discord.csproj", "{05E34D24-86BB-4E2F-9042-71F56F387D30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers.Discord", "src\Handlers.Discord\Handlers.Discord.csproj", "{3581F4E8-F945-410C-9213-1803603893C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		{B1110004-F522-4916-9BA9-3BA3AAF84A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1110004-F522-4916-9BA9-3BA3AAF84A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1110004-F522-4916-9BA9-3BA3AAF84A48}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F54557AF-837B-4910-AD5A-F38CEFB80F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F54557AF-837B-4910-AD5A-F38CEFB80F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F54557AF-837B-4910-AD5A-F38CEFB80F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F54557AF-837B-4910-AD5A-F38CEFB80F12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{05E34D24-86BB-4E2F-9042-71F56F387D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05E34D24-86BB-4E2F-9042-71F56F387D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05E34D24-86BB-4E2F-9042-71F56F387D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05E34D24-86BB-4E2F-9042-71F56F387D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB2DE0B-DF3D-42DF-89B9-0962D9A24470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB2DE0B-DF3D-42DF-89B9-0962D9A24470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB2DE0B-DF3D-42DF-89B9-0962D9A24470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB2DE0B-DF3D-42DF-89B9-0962D9A24470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3581F4E8-F945-410C-9213-1803603893C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3581F4E8-F945-410C-9213-1803603893C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3581F4E8-F945-410C-9213-1803603893C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3581F4E8-F945-410C-9213-1803603893C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
